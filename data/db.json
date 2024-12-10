@@ -1,0 +1,90 @@
+{
+    "feedbacks": [
+        {
+            "id": 1,
+            "company": "Facebook",
+            "badgeLetter": "F",
+            "upvoteCount": 987,
+            "daysAgo": 6,
+            "message": "I like the new features on #facebook, but the app crashes frequently on my phone. Please fix it! #facebook"
+        },
+        {
+            "id": 2,
+            "company": "Dunkin",
+            "badgeLetter": "D",
+            "upvoteCount": 321,
+            "daysAgo": 9,
+            "message": "The coffee at my local #dunkin has been inconsistent lately. Some days it's perfect, others it's not. #dunkin"
+        },
+        {
+            "id": 3,
+            "company": "Apple",
+            "badgeLetter": "A",
+            "upvoteCount": 123,
+            "daysAgo": 10,
+            "message": "Since yday on mobile #apple keeps buffering the video, it keeps happening even when I redownload the app. I'm in an area with decent internet btw. #apple"
+        },
+        {
+            "id": 4,
+            "company": "Burger King",
+            "badgeLetter": "B",
+            "upvoteCount": 456,
+            "daysAgo": 10,
+            "message": "The new #burgerking menu items are really good, but the service at my local outlet has been very slow lately. #burgerking"
+        },
+        
+        {
+            "id": 5,
+            "company": "Honda",
+            "badgeLetter": "H",
+            "upvoteCount": 567,
+            "daysAgo": 11,
+            "message": "The #honda service center was great, but they didn't have the parts I needed. Had to wait for them to order. #honda"
+        },
+        
+        
+        {
+            "id": 6,
+            "company": "Coca-Cola",
+            "badgeLetter": "C",
+            "upvoteCount": 789,
+            "daysAgo": 14,
+            "message": "Love the new #cocacola ad campaign, but I miss some of the old flavors. Please bring them back! #cocacola"
+        },
+        
+        {
+            "id": 7,
+            "company": "Etsy",
+            "badgeLetter": "E",
+            "upvoteCount": 654,
+            "daysAgo": 15,
+            "message": "Had an issue with a #etsy seller and customer service was great. However, it took too long to resolve. #etsy"
+        },
+        
+        {
+            "id": 8,
+            "company": "JPMorgan",
+            "badgeLetter": "J",
+            "upvoteCount": 1234,
+            "daysAgo": 21,
+            "message": "Happy with my #jpmorgan account overall, but the mobile app could use some improvements. #jpmorgan"
+        },
+      
+        {
+            "id": 9,
+            "company": "Google",
+            "badgeLetter": "G",
+            "upvoteCount": 234,
+            "daysAgo": 33,
+            "message": "The search results on #google have been less relevant recently. Any plans to improve this? #google"
+        },
+        {
+            "id": 10,
+            "company": "IBM",
+            "badgeLetter": "I",
+            "upvoteCount": 890,
+            "daysAgo": 45,
+            "message": "Using #ibm cloud services has been a positive experience, but their documentation can be confusing. #ibm"
+        }
+    ]
+}
